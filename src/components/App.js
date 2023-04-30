@@ -13,8 +13,9 @@ return (
   <SubHeading/>
   <InputQuery/>
   <SubmitButton/>
-  </div>)
-  }
+  </div>
+)
+ }
 export default App;
 
 
